@@ -10,4 +10,5 @@ O projeto foi proposto na Imersão Dados promovida pela Alura , onde foram anali
 ### Aula 4 - Missão Impossivel: Cruzando bases de Dados
 ### Aula 5 - Machine Learning
 
+
 Tecnologias As análises foram desenvolvidos na linguagem Python, utilizando o Jupyter Notebook e suas bibliotecas.
