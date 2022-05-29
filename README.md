@@ -11,4 +11,4 @@ O projeto foi proposto na Imersão Dados promovida pela Alura , onde foram anali
 ### Aula 5 - Machine Learning
 
 
-Tecnologias As análises foram desenvolvidos na linguagem Python, utilizando o Jupyter Notebook e suas bibliotecas.
+Tecnologias: As análises foram desenvolvidos na linguagem Python e suas bibliotecas, utilizando o Jupyter Notebook.
